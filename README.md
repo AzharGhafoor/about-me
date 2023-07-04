@@ -21,7 +21,7 @@
 <a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
 
 
-<a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://worldvectorlogo.com/download/fiverr-1.svg" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
+<a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://uxwing.vercel.app/fiverr-icon" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
 
 </p>
 
