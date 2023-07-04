@@ -19,7 +19,8 @@
 <a href="https://github.com/AzharGhafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@AzharGhafoor" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=UYIGXywAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="@AzharGhafoor" height="30" width="40" /></a> 
 <a href="https://www.researchgate.net/profile/Azhar-Ghafoor-3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="@Azhar-Ghafoor-3" height="30" width="40" /></a> 
-<a href="https://www.fiverr.com/azharghafoor39" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Fiverr_Logo_09.2020.svg" alt="@Aazharghafoor39" height="30" width="40" /></a> 
+<a href="https://www.fiverr.com/azharghafoor39" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/129_Fiverr-512.png" alt="@Aazharghafoor39" height="30" width="40" /></a> 
+<a href="https://azharghafoor.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="@azharghafoor" height="30" width="40" /></a> 
 
 </p>
 
