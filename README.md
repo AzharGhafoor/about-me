@@ -27,10 +27,6 @@
 
 - ⚡ Fun fact **I have mastered the art of time management to such an extent that I once juggled three projects simultaneously without compromising on quality or sanity. It's like having a superpower that only works in the realm of workaholics!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_azhar_ghafoor" height="30" width="40" /></a>
