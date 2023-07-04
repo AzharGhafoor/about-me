@@ -2,9 +2,6 @@
 <h3 align="center">A passionate cyber security analyst from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharghafoor&label=Profile%20views&color=0e75b6&style=flat" alt="azharghafoor" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharghafoor" alt="azharghafoor" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img src="https://img.shields.io/twitter/follow/_azhar_ghafoor?logo=twitter&style=for-the-badge" alt="_azhar_ghafoor" /></a> </p>
 
 - 🔭 I’m currently serving as [Cybersecurity Analyst](https://cytomate.net)
