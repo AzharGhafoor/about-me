@@ -2,15 +2,9 @@
 <h3 align="center">A passionate cyber security analyst from Pakistan</h3>
 <p align="center"> <a href="https://twitter.com/_azhar_ghafoor" target="blank"><img src="https://img.shields.io/twitter/follow/_azhar_ghafoor?logo=twitter&style=for-the-badge" alt="_azhar_ghafoor" /></a> </p>
 
-- 🔭 I’m currently serving as [Cybersecurity Analyst](https://cytomate.net)
+- 🔭 I’m currently serving as [Cybersecurity Analyst](https://cytomate.net) while in past, I have served as [Cybersecurity Researcher](https://www.comsats.edu.pk/)
 
-- 🌱 I’m currently learning **NIST, ISO-27001, NIA Policy 2.0 and Cybersecurity Related Certifications & Courses**
-
-- 👯 In past, I have served as [Cybersecurity Researcher](https://www.comsats.edu.pk/)
-
-- 🤝 I’m looking for help with **NextGen ASM Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AzharGhafoor](https://github.com/AzharGhafoor)
+- 🌱 I’m current learning **NIST, ISO-27001, NIA Policy 2.0 and Cybersecurity Related Certifications & Courses**
 
 - 📝 I regularly write articles on [https://ghafoorazhar.medium.com/](https://ghafoorazhar.medium.com/)
 
@@ -18,7 +12,7 @@
 
 - 📫 How to reach me **azharghafoor39@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kRe_k3oiDf9QqzgNHOm-UAKR9yguN0Ox/view?usp=sharing](https://drive.google.com/file/d/1kRe_k3oiDf9QqzgNHOm-UAKR9yguN0Ox/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kRe_k3oiDf9QqzgNHOm-UAKR9yguN0Ox/view?usp=sharing)
 
 - ⚡ Fun fact **I have mastered the art of time management to such an extent that I once juggled three projects simultaneously without compromising on quality or sanity. It's like having a superpower that only works in the realm of workaholics!**
 
